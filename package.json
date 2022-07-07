@@ -52,7 +52,7 @@
     "css-loader": "^2.1.1",
     "identity-obj-proxy": "^3.0.0",
     "jsonwebtoken": "^8.5.1",
-    "moment": "^2.20.1",
+    "moment": "^2.29.4",
     "moment-duration-format": "2.2.2",
     "moment-timezone": "^0.5.29",
     "react": "^16.12.0",
