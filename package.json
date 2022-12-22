@@ -51,7 +51,7 @@
     "cross-storage": "^1.0.0",
     "css-loader": "^2.1.1",
     "identity-obj-proxy": "^3.0.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "moment": "^2.20.1",
     "moment-duration-format": "2.2.2",
     "moment-timezone": "^0.5.29",
